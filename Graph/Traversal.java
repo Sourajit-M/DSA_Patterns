@@ -1,5 +1,5 @@
-package Patterns.Graph;
-
+package Graph;
+import Data.Edge;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

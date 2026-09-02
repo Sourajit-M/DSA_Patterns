@@ -1,4 +1,4 @@
-package Patterns.Graph;
+package Graph;
 import java.util.LinkedList;
 import java.util.Queue;
 

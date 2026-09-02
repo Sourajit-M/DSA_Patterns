@@ -1,4 +1,4 @@
-package Patterns.Graph;
+package Graph;
 
 public class NumberOfIslands {
     static int directions[][] = {
