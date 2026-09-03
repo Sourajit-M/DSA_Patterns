@@ -1,6 +1,6 @@
-package OOP.Packages.B;
+package OOP.packages.B;
 
-import static OOP.Packages.A.A.greeting;
+import static OOP.packages.A.A.greeting;
 
 public class B {
     public static void main(String[] args) {
