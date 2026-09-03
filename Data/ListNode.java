@@ -1,10 +1,10 @@
-package Data;
+package data;
 
-class ListNode{
-    int val;
-    ListNode next;
+public class ListNode{
+    public int val;
+    public ListNode next;
 
-    ListNode(int val){
+    public ListNode(int val){
         this.val = val;
         this.next = null;
     }

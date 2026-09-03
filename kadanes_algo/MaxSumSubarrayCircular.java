@@ -1,4 +1,4 @@
-package Kadane_Algorithm;
+package kadanes_algo;
 
 public class MaxSumSubarrayCircular {
     public static int maxSubarraySumCircular(int[] nums){

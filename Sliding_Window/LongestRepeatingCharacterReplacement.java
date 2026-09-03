@@ -1,4 +1,4 @@
-package Sliding_Window;
+package sliding_window;
 
 public class LongestRepeatingCharacterReplacement {
     public static int characterReplacement(String s, int k) {

@@ -1,4 +1,4 @@
-package Greedy;
+package greedy_algo;
 
 public class LemonadeChange {
     public static boolean lemonadeChange(int[] bills) {

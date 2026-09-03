@@ -1,4 +1,4 @@
-package OOP.staticKeyword;
+package oop.staticKeyword;
 
 //data or methods from another class in the same package need not to be imported
 public class Main {

@@ -1,9 +1,10 @@
-package Graph;
-import Data.Edge;
+package graph;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
+
+import data.Edge;
 
 public class Traversal {
     public static void main(String[] args) {

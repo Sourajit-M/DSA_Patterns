@@ -1,4 +1,4 @@
-package Two_Pointers;
+package two_pointers;
 
 import java.util.Scanner;
 

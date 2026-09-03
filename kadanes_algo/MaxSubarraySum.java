@@ -1,4 +1,4 @@
-package Kadane_Algorithm;
+package kadanes_algo;
 
 public class MaxSubarraySum {
     public static int maxSubArray(int[] nums) {

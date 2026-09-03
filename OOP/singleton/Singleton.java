@@ -1,4 +1,4 @@
-package OOP.singleton;
+package oop.singleton;
 
 //a class can have only one instance is called Singleton class
 public class Singleton {

@@ -1,4 +1,4 @@
-package OOP.staticKeyword;
+package oop.staticKeyword;
 
 public class Human {
     int age;

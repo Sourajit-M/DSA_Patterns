@@ -1,4 +1,4 @@
-package Sliding_Window;
+package sliding_window;
 
 public class LongestSubstringWithoutRepeatingChars {
     public static int lengthOfLongestSubstring(String s) {

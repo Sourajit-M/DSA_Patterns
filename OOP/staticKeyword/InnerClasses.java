@@ -1,4 +1,4 @@
-package OOP.staticKeyword;
+package oop.staticKeyword;
 
 // import java.util.Arrays;
 

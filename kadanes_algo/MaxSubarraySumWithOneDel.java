@@ -1,4 +1,4 @@
-package Kadane_Algorithm;
+package kadanes_algo;
 
 public class MaxSubarraySumWithOneDel {
     public static int maximumSum(int[] arr){

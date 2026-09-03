@@ -1,4 +1,4 @@
-package Sliding_Window;
+package sliding_window;
 
 public class PermutationInString {
     public static boolean checkInclusion(String s1, String s2) {

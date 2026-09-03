@@ -1,4 +1,4 @@
-package OOP.staticKeyword;
+package oop.staticKeyword;
 
 // this is a demo to show initialisation of static variables
 public class StaticBlock {

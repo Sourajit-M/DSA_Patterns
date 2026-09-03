@@ -1,4 +1,4 @@
-package Sliding_Window;
+package sliding_window;
 
 public class MaxSumSubarrayEqualToK {
     public static int maxSubarraySum(int[] arr, int k) {

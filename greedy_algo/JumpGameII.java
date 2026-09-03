@@ -1,4 +1,4 @@
-package Greedy;
+package greedy_algo;
 
 public class JumpGameII {
     public static int jump(int[] nums) {
