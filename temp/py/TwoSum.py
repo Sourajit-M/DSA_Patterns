@@ -12,7 +12,8 @@ def twoSum(nums, target):
     
     return ans
 
-nums = [2,7,11,15]
-target = 9
+nums = list(map(int, input().split()))
+target = int(input("target = "))
 
 print(twoSum(nums, target))
+# [2,7,11,15] 9
