@@ -1,14 +1,24 @@
 class Demo:
-
+    class Human:
+        def __init__(self, name, age, salary):
+            self.name = name
+            self.age = age
+            self.salary = salary
+    
     def instance_method(self):
-        print(f"Instance method is called using objects")
+        print("Instance method called")
     
-    @staticmethod
-    #if we dont use static we will need self but with static we dont need
-    def add(a:int, b:int):
-        print(f"Addition = ", (a+b))
+    def add(self, a: int, b: int):
+        print(f"Addition = {a + b}")
     
+    def intro(self, human : Human):
+        print(f"Name: {human.name}, Age: {human.age}, Salary : {human.salary}")
+
+
 
 d = Demo()
-d.instance_method()
-d.add(2, 3)
+
+person = d.Human("Eshita", 20, 0)
+d.intro(person)
+
+
